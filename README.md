@@ -9,6 +9,6 @@ SaaS, or Software-as-a-Service, is a method of delivering applications over the 
 
 In Q1 2024, major cloud providers AWS, Google, Alibaba, Salesforce, Microsoft, and others competed in a $76 billion market [(Haranas, 2024)](https://www.crn.com/news/cloud/2024/aws-google-microsoft-battle-over-76b-q1-cloud-market-share?page=6). Amazon maintains a strong lead, holding a 31% market share, though Microsoft and Google showed stronger year-on-year growth at 25% and 11% respectively [(Synergy Research Group, 2024)](https://www.srgresearch.com/articles/huge-cloud-market-sees-a-strong-bounce-in-growth-rate-for-the-second-consecutive-quarter).
 
-Details are under construction.
+Details are under construction. Last notebook update: 04/06/2024.
 
 Created by: S. Fabilia (2024)
